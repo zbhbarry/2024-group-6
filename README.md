@@ -121,7 +121,9 @@ N: Removed From List
     </tbody>
 </table>
 
+
 ## Snake
 For snake we have short listed this classic game for many reasons. The top reasons that we picked this game were for its multitude of options and possilbilitys to be extended with new exciting inovative software devlopment features. As a group we have hilighted the opotunity to extend Snake with features such as 2 player game play, Wall and eating smaller snakes. Each one of these features will give us as a group plentry to work on. the Two Player feature will enbel two users on the same machine to play the same game. While Wall will make it much harder for the snake to move around and acess the much needed nutrients need for game play. To off set this we will incllude smaller snakes to increase the ability for the snake to increase in size.
 
 ## Flappy Bird
+Choosing Flappy Bird as our inspiration brings a delightful challenge to the table. Our concept introduces several innovative features: Firstly, we can incorporate new patterns that allow players to navigate through pipes to reach new locations or maps. Secondly, we aim to enhance the bird's abilities through unique means, e.g. the ability to shoot lasers. Lastly, we propose adding new gates that redirect players to the starting point, elevating the difficulty level of the game.
