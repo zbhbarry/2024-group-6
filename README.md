@@ -120,3 +120,5 @@ N: Removed From List
     </tr>
     </tbody>
 </table>
+
+Choosing Flappy Bird as our inspiration brings a delightful challenge to the table. Our concept introduces several innovative features: Firstly, we can incorporate new patterns that allow players to navigate through pipes to reach new locations or maps. Secondly, we aim to enhance the bird's abilities through unique means, e.g. the ability to shoot lasers. Lastly, we propose adding new gates that redirect players to the starting point, elevating the difficulty level of the game.
