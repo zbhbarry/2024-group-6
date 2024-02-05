@@ -1,8 +1,6 @@
 # 2024-group-6
 
-
-
-[<img src="/ReportMaterial/TopsyTurvyHeader.png" />](https://uob-my.sharepoint.com/:v:/g/personal/gd23168_bristol_ac_uk/ET0LLhICslRKrZ3YEQcX0r8Bj7dizLeeorGzBLTpurAxYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1oEqxc)
+![Super SpaceMan](<Screenshot from 2024-02-05 18-42-21.png>)(https://uob-my.sharepoint.com/:v:/g/personal/gd23168_bristol_ac_uk/ET0LLhICslRKrZ3YEQcX0r8Bj7dizLeeorGzBLTpurAxYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1oEqxc)
 
 ## Table of Contents  
 - [Group Members](#group-members)
