@@ -1,6 +1,6 @@
 # 2024-group-6
 
-<!-- https://youtu.be/6UDCoNbmHIw -->
+
 
 [![Watch the video](https://img.youtube.com/vi/6UDCoNbmHIw/maxresdefault.jpg)](https://www.youtube.com/watch?v=6UDCoNbmHIw "Watch the video")
 
