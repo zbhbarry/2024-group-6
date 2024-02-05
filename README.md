@@ -1,10 +1,6 @@
 # 2024-group-6
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k899Tn_eiYk?si=11J02teYdKCZDxaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-file:///home/jimmeylove/Downloads/My%20Movie.mov
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 ## Table of Contents  
