@@ -1,7 +1,6 @@
 # 2024-group-6
 
 ## Table of Contents  
-
 - [Team Photo](#team-photo)
 - [Group Members](#group-members)
 - [Game Ideas](#game-ideas)
@@ -11,10 +10,9 @@
 - [Game Selection](#game-selection)
 
 ## Team Photo
-Comming soon!! 
+Comming soon!
 
 ## Group Members
-
 <table>
     <thead>
         <th>Name</th>
@@ -48,10 +46,7 @@ Comming soon!!
     </tr>
 </table>
 
-
-
 ## Game Ideas
-
 Key:
 1-9 : Top Options
 M: Maybe
@@ -126,7 +121,6 @@ N: Removed From List
         </tr>
     </tbody>
 </table>
-
 
 ## Snake
 For snake we have short listed this classic game for many reasons. The top reasons that we picked this game were for its multitude of options and possilbilitys to be extended with new exciting inovative software devlopment features. As a group we have hilighted the opotunity to extend Snake with features such as 2 player game play, Wall and eating smaller snakes. Each one of these features will give us as a group plentry to work on. the Two Player feature will enbel two users on the same machine to play the same game. While Wall will make it much harder for the snake to move around and acess the much needed nutrients need for game play. To off set this we will incllude smaller snakes to increase the ability for the snake to increase in size.
