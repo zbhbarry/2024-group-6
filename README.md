@@ -6,8 +6,8 @@
 - [Group Members](#group-members)
 - [Game Ideas](#game-ideas)
 - [Game Features](#game-features)
-- [Snake](#Snake)
-- [Flappy Bird](#Flappy-Bird)
+- [Snake](#snake)
+- [Flappy Bird](#flappy-bird)
 
 
 ## Team Photo
