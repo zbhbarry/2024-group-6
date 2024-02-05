@@ -4,6 +4,8 @@
 
 file:///home/jimmeylove/Downloads/My%20Movie.mov
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 
 ## Table of Contents  
 - [Group Members](#group-members)
