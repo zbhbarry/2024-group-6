@@ -1,7 +1,6 @@
 # 2024-group-6
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k899Tn_eiYk?si=11J02teYdKCZDxaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<video src='https://www.youtube.com/embed/k899Tn_eiYk?si=11J02teYdKCZDxaj' width=180/>
 
 ## Table of Contents  
 - [Group Members](#group-members)
