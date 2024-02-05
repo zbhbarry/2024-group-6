@@ -1,9 +1,14 @@
 # 2024-group-6
 
 ## Table of Contents  
+
+- [Team Photo](#team-photo)
 - [Group Members](#group-members)
 - [Game Ideas](#game-ideas)
-- [Team Photo](#team-photo)
+- [Game Features](#game-features)
+- [Snake](#Snake)
+- [Flappy Bird](#Flappy-Bird)
+
 
 ## Team Photo
 Comming soon!! 
