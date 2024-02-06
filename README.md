@@ -154,4 +154,11 @@ We have ultimately chosen to base our game idea on Flappy Bird and transform it 
 - algorithm for creating the pipes
 - hazards - gravity, asteroid
 - powers ups - health, lazer gun
+- space man's speed can change
 
+
+Contrasts:
+- less scope for features - we just had more creative ideas for Spaceman - snake wars had a more limited scope
+- for snake, we could not think of many challenges other than the walls - for space man we thought of entire categories. - way larger scope
+
+- more innovative as an idea - we didn't want to copy a game - wanted to create a more original game.
