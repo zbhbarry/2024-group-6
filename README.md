@@ -10,7 +10,7 @@
 - [Game Selection](#game-selection)
 
 ## Team Photo
-Comming soon!
+![Group Photo](./readmeFiles/groupphoto.JPG)
 
 ## Group Members
 <table>
@@ -126,7 +126,7 @@ N: Removed From List
 For snake we have short listed this classic game for many reasons. The top reasons that we picked this game were for its multitude of options and possilbilitys to be extended with new exciting inovative software devlopment features. As a group we have hilighted the opotunity to extend Snake with features such as 2 player game play, Wall and eating smaller snakes. Each one of these features will give us as a group plentry to work on. the Two Player feature will enbel two users on the same machine to play the same game. While Wall will make it much harder for the snake to move around and acess the much needed nutrients need for game play. To off set this we will incllude smaller snakes to increase the ability for the snake to increase in size.
 
 ### Prototype 
-[![Snake Wars](./Thumbnails/snakeWarsThumnail.png)](https://www.youtube.com/watch?v=iB4qEvqEI_E "Snake Wars")
+[![Snake Wars](./readmeFiles/Thumbnails/snakeWarsThumnail.png)](https://www.youtube.com/watch?v=iB4qEvqEI_E "Snake Wars")
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
 ## Flappy Bird
@@ -134,7 +134,7 @@ Choosing Flappy Bird as our inspiration brings a delightful challenge to the tab
 
 ### Prototype
 <!-- check to see if link works at a latter date https://img.youtube.com/vi/6UDCoNbmHIw/maxresdefault.jpg -->
-[![Super SpaceMan](./Thumbnails/supperSpaceManThumnail.png)](https://www.youtube.com/watch?v=6UDCoNbmHIw "Super SpaceMan")
+[![Super SpaceMan](./readmeFiles/Thumbnails/supperSpaceManThumnail.png)](https://www.youtube.com/watch?v=6UDCoNbmHIw "Super SpaceMan")
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
 ## Game Selection
