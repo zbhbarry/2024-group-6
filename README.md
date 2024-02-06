@@ -129,6 +129,13 @@ For snake we have short listed this classic game for many reasons. The top reaso
 [![Snake Wars](./readmeFiles/Thumbnails/snakeWarsThumnail.png)](https://www.youtube.com/watch?v=iB4qEvqEI_E "Snake Wars")
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
+notes:
+change name 
+very little kick back on features 
+good demonstration 
+not much need to change elements 
+
+
 ## Flappy Bird
 Choosing Flappy Bird as our inspiration brings a delightful challenge to the table. Our concept introduces several innovative features: Firstly, we can incorporate new patterns that allow players to navigate through pipes to reach new locations or maps. Secondly, we aim to enhance the bird's abilities through unique means, e.g. the ability to shoot lasers. Lastly, we propose adding new gates that redirect players to the starting point, elevating the difficulty level of the game.
 
@@ -138,5 +145,3 @@ Choosing Flappy Bird as our inspiration brings a delightful challenge to the tab
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
 ## Game Selection
-Write up on Tuesday
-gfjuykg
