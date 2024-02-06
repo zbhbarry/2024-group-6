@@ -137,5 +137,9 @@ Choosing Flappy Bird as our inspiration brings a delightful challenge to the tab
 [![Super SpaceMan](./readmeFiles/Thumbnails/supperSpaceManThumnail.png)](https://www.youtube.com/watch?v=6UDCoNbmHIw "Super SpaceMan")
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
+notes: 
+We have ultimately chosen to base our game idea on Flappy Bird and transform it into "Super Spaceman" (the name may be subject to change). As demonstrated in the prototype above, we have primarily introduced three new features: the inclusion of game props, such as heart items to increase lives and a prop gun to destroy debuff effects; alongside these, the addition of negative buffs (such as signs that immediately return the player to the starting point upon collision and signs that alter gravity) constitutes another new feature; the final feature allows players to access another map through special new channels or to complete the game by traversing obstacles.
+
+
 ## Game Selection
 Write up on Tuesday
