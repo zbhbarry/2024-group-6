@@ -7,7 +7,7 @@
 - [Game Features](#game-features)
 - [Snake](#snake)
 - [Flappy Bird](#flappy-bird)
-- [Game Selection](#game-selection)
+- [Game Selection](#game-selection---why-we-have-chosen-super-spaceman)
 
 ## Team Photo
 ![Group Photo](./readmeFiles/groupphoto.JPG)
