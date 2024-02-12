@@ -123,13 +123,13 @@ N: Removed From List
 </table>
 
 ## Snake
-For snake we have short listed this classic game for many reasons. The top reasons that we picked this game were for its multitude of options and possilbilitys to be extended with new exciting inovative software devlopment features. As a group we have hilighted the opotunity to extend Snake with features such as 2 player game play, Wall and eating smaller snakes. Each one of these features will give us as a group plentry to work on. the Two Player feature will enbel two users on the same machine to play the same game. While Wall will make it much harder for the snake to move around and acess the much needed nutrients need for game play. To off set this we will incllude smaller snakes to increase the ability for the snake to increase in size.
+For snake we have short listed this classic game for many reasons. The top reasons that we picked this game were for its multitude of options and possibilities to be extended with new exciting inovative software devlopment features. As a group we have hilighted the opotunity to extend Snake with features such as 2 player game play, Wall and eating smaller snakes. Each one of these features will give us as a group plentry to work on. the Two Player feature will enable two users on the same machine to play the same game. While Wall will make it much harder for the snake to move around and access the much needed nutrients need for game play. To off set this we will include smaller snakes to increase the ability for the snake to increase in size.
 
 ### Prototype 
 [![Snake Wars](./readmeFiles/Thumbnails/snakeWarsThumnail.png)](https://www.youtube.com/watch?v=iB4qEvqEI_E "Snake Wars")
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
-Following creating a prototype for Snake we quickly found many positives and negative associated though carrying out our development process. This included a change of name, good demstation and not much in the way of a need to change the core elements of our desing. Feedback quickly prompted us to change the name of the game to Snake Wars as the original was too simular to other game out there.  
+Following creating a prototype for Snake we quickly found many positives and negative associated though carrying out our development process. This included a change of name, good demstation and not much in the way of a need to change the core elements of our design. Feedback quickly prompted us to change the name of the game to Snake Wars as the original was too simular to other game out there.  
 
 ## Flappy Bird
 Choosing Flappy Bird as our inspiration brings a delightful challenge to the table. Our concept introduces several innovative features: Firstly, we can incorporate new patterns that allow players to navigate through pipes to reach new locations or maps. Secondly, we aim to enhance the bird's abilities through unique means, e.g. the ability to shoot lasers. Lastly, we propose adding new gates that redirect players to the starting point, elevating the difficulty level of the game.
@@ -161,11 +161,11 @@ Although both games hold exciting potential, there was definitely a clear favour
         </tr>
         <tr>
             <td>Viewers</td>
-            <td>People watch live game play e.g. on Youtube, Twitch or over a friends sholder</td>
+            <td>People watch live game play e.g. on Youtube, Twitch or over a friends shoulder</td>
         </tr>
         <tr>
             <td>Player Coursemates</td>
-            <td>A player base familar with the project requments and can peer review our work.</td>
+            <td>A player base familiar with the project requirements and can peer review our work.</td>
         </tr>
         <tr>
             <td>Player General Public</td>
@@ -183,17 +183,17 @@ Although both games hold exciting potential, there was definitely a clear favour
 </table>
 
 ## User-Stories
->"As a Player from General Public I want to play a game based on flappy birds with new inovatie features so that it grabs my intrigue and attention." 
+>"As a Player from General Public I want to play a game based on flappy birds with new innovative features so that it grabs my intrigue and attention." 
 
->"As a member of the Development Team I want to implemnt a first in class app/game that push me to learn new skills."
+>"As a member of the Development Team I want to implement a first in class app/game that push me to learn new skills."
 
->"As a Viewer I want to watch a game to learn by watch plays that are more skilled than myself so that I can improve my game play."
+>"As a Viewer I want to watch a game to learn by watching plays that are more skilled than myself so that I can improve my game play."
 
->"As a Coursemate playing another groups game I want to learn of them and become insipired by their vision and implmentations of their app/game."
+>"As a Coursemate playing another groups game I want to learn of them and become inspired by their vision and implementations of their app/game."
 
->"As a Player with a disibilty such as being colour blind I find it very difficult to play some games that dont cater to this. I would like a game which caters to my needs of having diffrent colour contrasts so that i am not impared by my lack vision."
+>"As a Player with a disability such as being colour blind I find it very difficult to play some games that dont cater to this. I would like a game which caters to my needs of having different colour contrasts so that i am not impared by my lack vision."
 
->"As a Marker I want to quickly assess the assigment that I am marking by playing the game within 5 mins."
+>"As a Marker I want to quickly assess the assignment that I am marking by playing the game within 5 mins."
 
 >"As a Player from General Public, I want to explore different maps/scenarios in the game, so that I can experience freshness and novelty."
 
