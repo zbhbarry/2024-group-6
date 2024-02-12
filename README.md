@@ -144,3 +144,48 @@ We have ultimately chosen to base our game idea on Flappy Bird and transform it 
 ## Game Selection - Why we have chosen Super Spaceman
 
 Although both games hold exciting potential, there was definitely a clear favourite throughout the research process, and the group has collectively agreed to pursue Super Spaceman. Ultimately, Super Spaceman has a greater scope for game features and creative opportunities. For Snake, we could not think of many challenges other than implementing walls, where as, for SSM, we were able to think of multiple categories, including various different hazards and power ups. So much, that we have had to spend time narrowing down which of our ideas to use. When researching these features, we concluded that SSM will also be more complex to implement, therefore providing us a greater chance to apply our knowledge and skills. Similarly, we feel more excited about the interface for SSM, and have already thought of different game maps. Our thoughts were confirmed in Monday’s lab, where we received positive feedback for SSM, and there was a general consensus that this was a more innovative idea and would be the most popular game. 
+
+## Stake Holders
+
+<table>
+    <thead>
+        <tr>
+            <th>Stake Holder</td>
+            <th>Notes</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Development Team</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Viewers</td>
+            <td>People watch live game play e.g. on Youtube, Twitch or over a friends sholder</td>
+        </tr>
+        <tr>
+            <td>Player Coursemates</td>
+            <td>A player base familar with the project requments and can peer review our work.</td>
+        </tr>
+        <tr>
+            <td>Player General Public</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Player Disabilities(Colour Blind) </td>
+            <td>Users with colour blindness should be able to use the app</td>
+        </tr>
+        <tr>
+            <td>Player Markers - Looking to play the app to mark our work within 5 mins</td>
+            <td>n/a</td>
+        </tr>
+    </tbody>
+</table>
+
+## User-Stories
+
+## Usecase Specification
+
+## Usecase - Diagram 
+
+## Refection
