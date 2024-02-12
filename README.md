@@ -176,13 +176,24 @@ Although both games hold exciting potential, there was definitely a clear favour
             <td>Users with colour blindness should be able to use the app</td>
         </tr>
         <tr>
-            <td>Player Markers - Looking to play the app to mark our work within 5 mins</td>
-            <td>n/a</td>
+            <td>Markers</td>
+            <td>Looking to play the app to mark our work within 5 mins</td>
         </tr>
     </tbody>
 </table>
 
 ## User-Stories
+>"As a Player from General Public I want to play a game based on flappy birds with new inovatie features so that it grabs my intrigue and attention." 
+
+>"As a member of the Development Team I want to implemnt a first in class app/game that push me to learn new skills."
+
+>"As a viewer I want to watch a game to learn by watch plays that are more skilled than myself so that I can improve my game play."
+
+>"As a Coursemate playing another groups game I want to learn of them and become insipired by their vision and implmentations of their app/game."
+
+>"As a player with a disibilty such as being colour blind I find it very difficult to play some games that dont cater to this. I would like a game which caters to my needs of having diffrent colour contrasts so that i am not impared by my lack vision."
+
+>"As Markers I want to quickly assess the assigment that I am marking by playing the game within 5 mins."
 
 ## Usecase Specification
 
