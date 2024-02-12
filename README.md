@@ -84,20 +84,20 @@ N: Removed From List
         </tr>
         <tr>
             <td>brick braker</td>
-            <td>time limit have to break enough bircks to get a partilar score</td>
+            <td>time limit have to break enough bricks to get a particular score</td>
             <td></td>
             <td> </td>
         </tr>
         <tr>
             <td>Flappy Birds</td>
             <td>can go up pipes - leads new place on map or new map</td>
-            <td>birds attachemetn or powers e.g go through a circle and get supper power for instance ability to knock thing over </td>
+            <td>birds attachement or powers e.g go through a circle and get super power for instance ability to knock thing over </td>
             <td>portals back to start</td>
         </tr>
         <tr>
             <td>Kingdom Rush</td>
-            <td>natural desatsters(earth quake)</td>
-            <td>new atackers/new towers </td>
+            <td>natural disasters(earth quake)</td>
+            <td>new attackers/new towers </td>
             <td></td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@ N: Removed From List
         </tr>
         <tr>
             <td>Angry Birds</td>
-            <td>diffrment animals e.g. giraffs elephants and sharks</td>
+            <td>different animals e.g. giraffs elephants and sharks</td>
             <td>water mode (underwater sling shot + above watersling shot) </td>
             <td>change pigs to rats everytime you fail they increase in number</td>
         </tr>
