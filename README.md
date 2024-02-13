@@ -199,49 +199,88 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 >"As a Viewer, I want to see changes in the speed of the game process,  as this is what captures my attention."
 
-## Usecase Specification
+## Usecase Specification - Genral Player
+
+**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Birds. Within the following user specifiction we are going take you through a step by step routin of which a general player would encounter when playing the game.
+
+**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazars of which he will have to advoid dying. As the user plays the game Super Spaceman picks up speed. 
+
 <table>
-    <thead>
-        <tr>
-            <th>Usecase</td>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td>Description</td>
-            <td>a run through of the game</td>
-        </tr>
-        <tr>
-            <td>Basic Flow:</td>
-            <td>Complete the game with no loss of life</td>
+            <td><b>Basic Flow</b></td>
+            <td></td>
         </tr>
         <tr>
             <td>1.</td>
-            <td>N/A</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity. </td>
         </tr>
         <tr>
             <td>2.</td>
-            <td>N/A</td>
+            <td>Super Spaceman trys to advoid all hazards.</td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>N/A</td>
+            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.  </td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
         <tr>
-            <td>Alternative Flow:</td>
-            <td>N/A</td>
+            <td><b>Alternative Flow - Pipes:</b></td>
         </tr>
          <tr>
             <td>1.</td>
-            <td>N/A</td>
+            <td></td>
         </tr>
         <tr>
             <td>2.</td>
-            <td>N/A</td>
+            <td></td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>N/A</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td><b>Alternative Flow - Power Up's (Invinsibility):</b></td>
+        </tr>
+         <tr>
+            <td>1.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
+            <td><b>Alternative Flow - Hazards (Nuclear Bombs):</b></td>
+        </tr>
+         <tr>
+            <td>1.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
