@@ -187,9 +187,9 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 >"As a member of the Development Team I want to implement a first in class app/game that push me to learn new skills."
 
->"As a Viewer I want to watch a game to learn by watching plays that are more skilled than myself so that I can improve my game play."
+>"As a Viewer I want to watch a game to learn by watching players that are more skilled than myself so that I can improve my game play."
 
->"As a Coursemate playing another groups game I want to learn of them and become inspired by their vision and implementations of their app/game."
+>"As a Coursemate playing another groups game I want to learn off them and become inspired by their vision and implementations of their app/game."
 
 >"As a Player with a disability such as being colour blind I find it very difficult to play some games that dont cater to this. I would like a game which caters to my needs of having different colour contrasts so that i am not impared by my lack vision."
 
@@ -197,7 +197,7 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 >"As a Player from General Public, I want to explore different maps/scenarios in the game, so that I can experience freshness and novelty."
 
->"As a Viewer, I want to see changes in the pace of the game process,  as this is what captures my attention."
+>"As a Viewer, I want to see changes in the speed of the game process,  as this is what captures my attention."
 
 ## Usecase Specification
 
