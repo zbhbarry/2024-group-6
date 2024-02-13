@@ -221,7 +221,7 @@ Although both games hold exciting potential, there was definitely a clear favour
         </tr>
         <tr>
             <td>Basic Flow:</td>
-            <td>N/A</td>
+            <td>Complete the game with no loss of life</td>
         </tr>
         <tr>
             <td>1.</td>
