@@ -203,14 +203,13 @@ Although both games hold exciting potential, there was definitely a clear favour
 <table>
     <thead>
         <tr>
-            <th>Usecase Section</td>
-            <th></td>
+            <th>Usecase</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Description</td>
-            <td>N/A</td>
+            <td>a run through of the game</td>
         </tr>
         <tr>
             <td>Basic Flow:</td>
