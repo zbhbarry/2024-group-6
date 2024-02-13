@@ -200,6 +200,52 @@ Although both games hold exciting potential, there was definitely a clear favour
 >"As a Viewer, I want to see changes in the speed of the game process,  as this is what captures my attention."
 
 ## Usecase Specification
+<table>
+    <thead>
+        <tr>
+            <th>Usecase Section</td>
+            <th></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Description</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Basic Flow:</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Alternative Flow:</td>
+            <td>N/A</td>
+        </tr>
+         <tr>
+            <td>1.</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Usecase - Diagram 
 
