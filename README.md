@@ -226,64 +226,48 @@ Although both games hold exciting potential, there was definitely a clear favour
     </tbody>
 </table>
 
+<b>Alternative Flow:</b>
 <table>
     <tbody>
         <tr>
-            <td><b>Alternative Flow - Pipes:</b></td>
+            <td>Steps:</td>
+            <td>Pipes</td>
+            <td>Power Up's (Invinsibility)</td>
+            <td>Hazards (Nuclear Bombs)</td>
         </tr>
-         <tr>
+        <tr>
+            <td>Desctiption:</td>
+            <td>Going down pipes Transports Super Spaceman to a new map</td>
+            <td>Power ups give Super Spaceman extra powers</td>
+            <td>When Super Spaceman comes into contact with a Hazard he dies</td>
+        </tr>
+        <tr>
             <td>1.</td>
-            <td></td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defy gravity.</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
         </tr>
         <tr>
             <td>2.</td>
-            <td></td>
+            <td>Player guides Super Spaceman into the pipes. Super Spaceman is transported to a new map or new place on the current map.</td>
+            <td>Super Spaceman comes into contact with the Power Up</td>
+            <td>Super Spaceman comes into contact with the Hazard</td>
         </tr>
         <tr>
             <td>3.</td>
+            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td>The Space bar is used to activate the power up.</td>
+            <td>Super Spaceman dies the scoure is then placed on the screen in terms of time.</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td></td>
+            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.</td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
-<table>
-    <tbody>
-        <tr>
-            <td><b>Alternative Flow - Power Up's (Invinsibility):</b></td>
-        </tr>
-         <tr>
-            <td>1.</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-<table>
-    <tbody>
-        <tr>
-            <td><b>Alternative Flow - Hazards (Nuclear Bombs):</b></td>
-        </tr>
-         <tr>
-            <td>1.</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
 
 ## Usecase - Diagram 
 
