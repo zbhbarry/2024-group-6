@@ -199,6 +199,7 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 >"As a Viewer, I want to see changes in the speed of the game process,  as this is what captures my attention."
 
+<<<<<<< HEAD
 >"As a Player who is deaf, I would like the game to be accessible to those with hearing impairments. The game could include visual clues, so that I can play without missing out on essential features."
 
 >"As a Player with arthritis, it would be great if I could customise the controls of the Super Space Man, so that I can play comfortably." 
@@ -208,51 +209,77 @@ Although both games hold exciting potential, there was definitely a clear favour
 >"As a Coursemate, I would like to be able to access your development process, including your challenges, and how you have overcome them. That way I can learn from your experiences."
 
 ## Usecase Specification
+=======
+## Usecase Specification - Genral Player
+
+**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Birds. Within the following user specifiction we are going take you through a step by step routin of which a general player would encounter when playing the game.
+
+**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazars of which he will have to advoid dying. As the user plays the game Super Spaceman picks up speed. 
+
+>>>>>>> 088ef5456d2251833b884fb2870ccee9fae9ed1f
 <table>
-    <thead>
-        <tr>
-            <th>Usecase</td>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td>Description</td>
-            <td>a run through of the game</td>
-        </tr>
-        <tr>
-            <td>Basic Flow:</td>
-            <td>Complete the game with no loss of life</td>
+            <td><b>Basic Flow</b></td>
+            <td></td>
         </tr>
         <tr>
             <td>1.</td>
-            <td>N/A</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity. </td>
         </tr>
         <tr>
             <td>2.</td>
-            <td>N/A</td>
+            <td>Super Spaceman trys to advoid all hazards.</td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>Alternative Flow:</td>
-            <td>N/A</td>
-        </tr>
-         <tr>
-            <td>1.</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td>N/A</td>
+            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.  </td>
         </tr>
     </tbody>
 </table>
+
+<b>Alternative Flow:</b>
+<table>
+    <tbody>
+        <tr>
+            <td>Steps:</td>
+            <td>Pipes</td>
+            <td>Power Up's (Invinsibility)</td>
+            <td>Hazards (Nuclear Bombs)</td>
+        </tr>
+        <tr>
+            <td>Desctiption:</td>
+            <td>Going down pipes Transports Super Spaceman to a new map</td>
+            <td>Power ups give Super Spaceman extra powers</td>
+            <td>When Super Spaceman comes into contact with a Hazard he dies</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defy gravity.</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>Player guides Super Spaceman into the pipes. Super Spaceman is transported to a new map or new place on the current map.</td>
+            <td>Super Spaceman comes into contact with the Power Up</td>
+            <td>Super Spaceman comes into contact with the Hazard</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td>The Space bar is used to activate the power up.</td>
+            <td>Super Spaceman dies the scoure is then placed on the screen in terms of time.</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td></td>
+            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Usecase - Diagram 
 
