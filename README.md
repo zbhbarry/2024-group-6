@@ -199,7 +199,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 >"As a Viewer, I want to see changes in the speed of the game process,  as this is what captures my attention."
 
-<<<<<<< HEAD
 >"As a Player who is deaf, I would like the game to be accessible to those with hearing impairments. The game could include visual clues, so that I can play without missing out on essential features."
 
 >"As a Player with arthritis, it would be great if I could customise the controls of the Super Space Man, so that I can play comfortably." 
@@ -209,14 +208,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 >"As a Coursemate, I would like to be able to access your development process, including your challenges, and how you have overcome them. That way I can learn from your experiences."
 
 ## Usecase Specification
-=======
-## Usecase Specification - Genral Player
-
-**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Birds. Within the following user specifiction we are going take you through a step by step routin of which a general player would encounter when playing the game.
-
-**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazars of which he will have to advoid dying. As the user plays the game Super Spaceman picks up speed. 
-
->>>>>>> 088ef5456d2251833b884fb2870ccee9fae9ed1f
 <table>
     <tbody>
         <tr>
@@ -282,5 +273,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 
 ## Usecase - Diagram 
+> did this work?
 
 ## Refection
