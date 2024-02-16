@@ -273,6 +273,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 
 ## Usecase - Diagram 
-> did this work?
+<img src=https://github.com/UoB-COMSM0110/2024-group-6/blob/dev/readmeFiles/usecasediagram.png>
 
 ## Refection
