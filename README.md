@@ -249,7 +249,8 @@ Although both games hold exciting potential, there was definitely a clear favour
             <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
             <td>Player uses the the right key on the mouse to make Super Spaceman move up defy gravity.</td>
             <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
-        </tr>
+        
+
         <tr>
             <td>2.</td>
             <td>Player guides Super Spaceman into the pipes. Super Spaceman is transported to a new map or new place on the current map.</td>
@@ -273,6 +274,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 
 ## Usecase - Diagram 
-> did this work?
+</tr>![Diagram 2024-02-16 14-41-54](https://github.com/UoB-COMSM0110/2024-group-6/assets/157363150/41f2bac0-2ac9-4e57-93a3-3672b9b90067)
 
 ## Refection
