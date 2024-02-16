@@ -199,11 +199,11 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 >"As a Viewer, I want to see changes in the speed of the game process,  as this is what captures my attention."
 
-## Usecase Specification - Genral Player
+## Usecase Specification - General Player
 
-**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Birds. Within the following user specifiction we are going take you through a step by step routin of which a general player would encounter when playing the game.
+**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Birds. Within the following user specifiction we are going to take you through a step-by-step routine of which a general player would encounter when playing the game.
 
-**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazars of which he will have to advoid dying. As the user plays the game Super Spaceman picks up speed. 
+**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazards of which he will have to avoid dying. As the user plays the game Super Spaceman picks up speed. 
 
 <table>
     <tbody>
@@ -221,7 +221,7 @@ Although both games hold exciting potential, there was definitely a clear favour
         </tr>
         <tr>
             <td>3.</td>
-            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.  </td>
+            <td>Super Spaceman eventually hit a hazard. Scoure is then placed on the screen in terms of time.  </td>
         </tr>
     </tbody>
 </table>
@@ -255,14 +255,14 @@ Although both games hold exciting potential, there was definitely a clear favour
         </tr>
         <tr>
             <td>3.</td>
-            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td>Super Spaceman eventually hit a hazard. Scoure is then placed on the screen in terms of time.</td>
             <td>The Space bar is used to activate the power up.</td>
             <td>Super Spaceman dies the scoure is then placed on the screen in terms of time.</td>
         </tr>
         <tr>
             <td>4.</td>
             <td></td>
-            <td>Super Spaceman eventialy hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td>Super Spaceman eventually hit a hazard. Scoure is then placed on the screen in terms of time.</td>
             <td></td>
         </tr>
     </tbody>
@@ -270,5 +270,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 
 ## Usecase - Diagram 
+<img src=https://github.com/UoB-COMSM0110/2024-group-6/blob/dev/readmeFiles/usecasediagram.png>
 
 ## Refection
