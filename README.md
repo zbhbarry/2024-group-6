@@ -273,7 +273,9 @@ Although both games hold exciting potential, there was definitely a clear favour
 ## Usecase - Diagram 
 <img src="./readmeFiles/usecasediagram.png">
 
+
 ## Reflection
+<<<<<<< HEAD
 What we learned from the requirements:
 - talk about the process of going through it, collaborating and coming to a decision - there were very few hiccups due to our prior planning
 - clearly to understand the user's needs 
@@ -296,3 +298,6 @@ Based on Flappy Bird, but the player can transport to different maps.
 Extra notes:
 - Generating the code for randomised hazards
 - Implementing losing health when the player hits a hazards
+=======
+
+>>>>>>> 2ec76bda9c9c7e57e1d7a6902906f11254e02fd6
