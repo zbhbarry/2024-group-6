@@ -139,7 +139,7 @@ Choosing Flappy Bird as our inspiration brings a delightful challenge to the tab
 [![Super SpaceMan](./readmeFiles/Thumbnails/supperSpaceManThumnail.png)](https://www.youtube.com/watch?v=6UDCoNbmHIw "Super SpaceMan")
 *Right-click and select "Open link in new tab" to watch the video without leaving GitHub.*
 
-We have ultimately chosen to base our game idea on Flappy Bird and transform it into "Super Spaceman" (the name may be subject to change). As demonstrated in the prototype above, we have primarily introduced three new features: the inclusion of game props, such as heart items to increase lives and a prop gun to destroy debuff effects; alongside these, the addition of negative buffs (such as signs that immediately return the player to the starting point upon collision and signs that alter gravity) constitutes another new feature; the final feature allows players to access another map through special new channels or to complete the game by traversing obstacles.
+We have ultimately chosen to base our game idea on Flappy Bird and transform it into "Super Spaceman" (the name may be subject to change). As demonstrated in the above prototype, we have introduced three new features: the inclusion of game props, such as heart items to increase lives and a prop gun to destroy debuff effects; alongside these, the addition of negative buffs (such as signs that immediately return the player to the starting point upon collision and signs that alter gravity) constitutes another new feature. The final feature allows players to either access another map through special new channels/portals, or to complete the game by traversing obstacles.
 
 ## Game Selection - Why we have chosen Super Spaceman
 
@@ -201,9 +201,9 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 ## Usecase Specification - General Player
 
-**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Birds. Within the following user specifiction we are going to take you through a step-by-step routine of which a general player would encounter when playing the game.
+**Description** - Super Spaceman is a game with inspiration taken from the game Flappy Bird. Within the following user specifiction, we are going to take you through a step-by-step routine of which a general player would encounter when playing the game.
 
-**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazards of which he will have to avoid dying. As the user plays the game Super Spaceman picks up speed. 
+**Aim** - The Aim of the game is to prevent Super Spaceman from dying. Throughout the game he encounters many hazards, of which he will have to avoid in order to survive and continue playing. As the user plays the game, Super Spaceman picks up speed. 
 
 ## Usecase Specification
 <table>
@@ -218,11 +218,11 @@ Although both games hold exciting potential, there was definitely a clear favour
         </tr>
         <tr>
             <td>2.</td>
-            <td>Super Spaceman trys to advoid all hazards.</td>
+            <td>Super Spaceman trys to avoid all hazards.</td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>Super Spaceman eventually hit a hazard. Scoure is then placed on the screen in terms of time.  </td>
+            <td>When Super Spaceman eventually hits a hazard, the score is placed on the screen in terms of time.  </td>
         </tr>
     </tbody>
 </table>
@@ -237,33 +237,33 @@ Although both games hold exciting potential, there was definitely a clear favour
             <td>Hazards (Nuclear Bombs)</td>
         </tr>
         <tr>
-            <td>Desctiption:</td>
-            <td>Going down pipes Transports Super Spaceman to a new map</td>
+            <td>Description:</td>
+            <td>Going down pipes transports Super Spaceman to a new map</td>
             <td>Power ups give Super Spaceman extra powers</td>
-            <td>When Super Spaceman comes into contact with a Hazard he dies</td>
+            <td>When Super Spaceman comes into contact with a Hazard, he dies</td>
         </tr>
         <tr>
             <td>1.</td>
+            <td>Player uses the the right key on the mouse to make Super Spaceman move up, defying gravity.</td>
             <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
-            <td>Player uses the the right key on the mouse to make Super Spaceman move up defy gravity.</td>
             <td>Player uses the the right key on the mouse to make Super Spaceman move up defying gravity.</td>
         </tr>
         <tr>
             <td>2.</td>
-            <td>Player guides Super Spaceman into the pipes. Super Spaceman is transported to a new map or new place on the current map.</td>
+            <td>Player guides Super Spaceman into the pipes. Super Spaceman is transported to a new map, or new place on the current map.</td>
             <td>Super Spaceman comes into contact with the Power Up</td>
             <td>Super Spaceman comes into contact with the Hazard</td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>Super Spaceman eventually hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td>Super Spaceman eventually hits a hazard. The score is then placed on the screen in terms of time.</td>
             <td>The Space bar is used to activate the power up.</td>
-            <td>Super Spaceman dies the scoure is then placed on the screen in terms of time.</td>
+            <td>When Super Spaceman dies, the score is then placed on the screen in terms of time.</td>
         </tr>
         <tr>
             <td>4.</td>
             <td></td>
-            <td>Super Spaceman eventually hit a hazard. Scoure is then placed on the screen in terms of time.</td>
+            <td>Super Spaceman eventually hits a hazard. The score is then placed on the screen in terms of time.</td>
             <td></td>
         </tr>
     </tbody>
@@ -273,8 +273,6 @@ Although both games hold exciting potential, there was definitely a clear favour
 ## Usecase - Diagram 
 <img src="./readmeFiles/usecasediagram.png">
 
-## Refection
 
-test 
-test0
-test1
+## Reflection
+
