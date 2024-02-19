@@ -297,3 +297,7 @@ Based on Flappy Bird, but the player can transport to different maps.
 Extra notes:
 - Generating the code for randomised hazards
 - Implementing losing health when the player hits a hazards
+
+## Classes Diagram
+
+<img src="./readmeFiles/Classes_Diagram _v0.png">
