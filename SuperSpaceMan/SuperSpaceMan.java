@@ -10,7 +10,9 @@ public class SuperSpaceMan extends PApplet {
     }
 
     public void draw(){
+
         background(0);
+
     }
 
 }
