@@ -275,12 +275,9 @@ Although both games hold exciting potential, there was definitely a clear favour
 
 
 ## Reflection
-What we learned from the requirements:
-- talk about the process of going through it, collaborating and coming to a decision - there were very few hiccups due to our prior planning
-- clearly to understand the user's needs 
-- due to our planning, we were able to produce something that matched our initial game requirements. the user-story and user case specification reflects the requirements.
-- except we had some issues with the include and extends usecase diagram - we had to refactor lots - was difficult as some of our members were not able to meet in person - so it was quite difficult communicating what we wanted them to change on the diagram.
-    - initially we were confused in regard to whether something should have been an extend or an include.
+This week, our team gained valuable insights into the specific requirements of our game and we learnt lots about different player experiences. The task highlighted just how important it is to consider all potential players, as well as clearly understanding every player’s needs. We discussed specific ways to ensure that our game resonates with many. For example, including exciting and sophisticated features, whilst also being adaptable to those with disabilities. As a team, we enjoyed the process of collaborating and coming to these decisions, and due to our effective planning, we were able to produce a user story and use case that matched and reflected our initial game requirements. 
+
+However, when discussing our use case specification and creating our use case diagram, we realised that our initial plan was perhaps over complicated. We had some slight issues when defining whether something was an ‘include’ or ‘extend’. Some of our members were unable to meet in person, and so when we came together to discuss our use case diagram, it was difficult to explain over the phone, specific things that we wanted them to change and why. This meant that we had to refactor lots, which overall emphasised the importance of remaining flexible throughout the game design process. Ultimately, this task was an important learning journey that provided us with a solid game design that we think will be open to many.
 
 
 
@@ -304,3 +301,6 @@ Extra notes:
 
 ## Setting up processing in Inteliji 
 https://www.youtube.com/watch?v=_h2GZgnPcnM
+
+## Example code of Flappy Bird
+https://forum.processing.org/two/discussion/3580/flappy-code.html
