@@ -301,3 +301,6 @@ Extra notes:
 
 ## Setting up processing in Inteliji 
 https://www.youtube.com/watch?v=_h2GZgnPcnM
+
+## Example code of Flappy Bird
+https://forum.processing.org/two/discussion/3580/flappy-code.html
