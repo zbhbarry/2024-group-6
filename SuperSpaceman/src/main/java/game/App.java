@@ -1,4 +1,4 @@
-package superSpaceman ;
+package game;
 
 /**
  * Hello world!

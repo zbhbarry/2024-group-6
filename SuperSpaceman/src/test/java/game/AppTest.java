@@ -1,4 +1,4 @@
-package superSpaceman ;
+package game;
 
 import static org.junit.Assert.assertTrue;
 
